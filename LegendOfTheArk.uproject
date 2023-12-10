@@ -50,34 +50,14 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d58106fca28446ec88caad16c5a35fe8"
 		},
 		{
-			"Name": "n00dFootsteps",
-			"Enabled": true,
-			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/f1660ba30bf749e0baf7be8fcceef36e"
-		},
-		{
 			"Name": "AutoFootstep",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/66cea07913a248bba0ada8dd73c809b9"
 		},
 		{
-			"Name": "GameFuse",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6214da75e30c4ba5a713596d735589d8"
-		},
-		{
 			"Name": "OmegaGameFramework",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2ca6202e55f44cfd82659fbca6591603"
-		},
-		{
-			"Name": "CollisionsDebug",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bb1fd716c3194ee3b48fc1ce8431fe2f"
-		},
-		{
-			"Name": "InteractiveWorld",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6fef18d187bf4942abad64f2d98a9a73"
 		}
 	]
 }
