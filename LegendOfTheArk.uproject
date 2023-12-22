@@ -58,6 +58,11 @@
 			"Name": "OmegaGameFramework",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2ca6202e55f44cfd82659fbca6591603"
+		},
+		{
+			"Name": "StaminaSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c276e969446745ac87903cfd838c0cd6"
 		}
 	]
 }
